@@ -1,2 +1,36 @@
+body {
+    
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
 
-/* Your CSS Code here. */
+header {
+    background-color: Grey;
+    color: #fff;
+    /* padding: 1rem; */
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav a {
+    color: yellow;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+}
+
+h1, h2 {
+    color: #333;
+}
